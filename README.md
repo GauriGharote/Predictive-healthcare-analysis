@@ -1,1 +1,2 @@
 # Predictive-healthcare-analysis
+Predictive healthcare analysis is a data-driven approach to forecasting and predicting various aspects of healthcare, including patient outcomes, disease progression, treatment efficacy, and healthcare resource utilization. By leveraging advanced machine learning and statistical techniques, predictive healthcare analysis aims to improve patient care, optimize healthcare operations, and reduce costs. 
